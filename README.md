@@ -71,6 +71,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 - [ApEye.org](https://apeye.org) - APEye is a jQuery widget for issuing HTTP requests
 - [JSON-RPC 2.0 Shell](http://software.dzhuvinov.com/json-rpc-2.0-shell.html) - Interactive RPC shell for rapid querying, testing and
 debugging of JSON-RPC 2.0 web services
+- [Chain.Love](https://chain.love/) - Open-source directory and comparison tool for blockchain JSON-RPC node providers, public endpoints, and developer APIs ([GitHub](https://github.com/Chain-Love/chain-love))
 
 ### Interface Description
 - [open-rpc.org](https://open-rpc.org) - A standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. 
